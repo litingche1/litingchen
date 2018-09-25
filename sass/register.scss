@@ -1,0 +1,205 @@
+@chartset "utf-8";
+// 头部
+.header{
+    width: 100%;
+    height: 88px;
+    background:#fff;
+
+    .h_top{
+     height: 68px;
+    margin-top: 18px;
+     .h_top_l{
+        float:left;
+        a{
+        display:block;
+         width: 74px;
+        height: 68px;
+        }
+        img{
+         width: 74px;
+        height: 68px;   
+        }
+     }
+     .h_top_r{
+        margin-top: 19px;
+        float:right;
+        width: 472px;
+        height: 29px;
+        img{
+        width: 472px;
+        height: 29px;   
+        }
+     }
+    }
+}
+// 注册
+.reg{
+    width: 980px;
+    height: 600px;
+    margin: 40px auto;
+    .register{
+    width: 980px;
+    height: 600px;
+    .r_img{
+        float:left;
+        width: 600px;
+        height: 410px;
+        img{
+          width: 560px;
+        height: 360px;   
+        }
+    }
+    .r_c{
+    width: 367px;
+    height: 600px;
+    float:right;
+    border-right:1px solid #f2f2f2;
+    border-left:1px solid #f2f2f2;
+    .r_ul{
+    padding:0 33px;
+    
+    .r_ul_top{ 
+   padding-top: 23px;
+    padding-bottom: 26px;
+    h2{
+    color: #c41f3a;
+    font-size: 22px;
+    height: 38px;
+    line-height: 38px;
+    font-weight: bold;
+    float:left;
+    }
+    .log{
+    float:right;
+    height: 38px;
+    line-height: 38px;
+    font-size:12px;
+    color:#a88c8c;
+    a{
+    color: #c41f3a;
+    }
+        
+    }
+    }
+    .r_ul_f{
+        width: 301px;
+        height: 435px;
+        .err_box{
+          width: 301px;
+          height: 23px;
+          font-size:12px;
+          margin-bottom: 3px;
+          display:none;
+          .wzms{
+           width: 301px;
+          height: 23px;
+          font-size:12px; 
+         color: red;
+          }  
+        }
+    .tt{
+    vertical-align: middle;
+    border: 1px solid #c8c8c8;
+    height: 40px;
+    line-height: 25px;
+    padding-left: 6px;
+    width: 293px;
+    font-size: 12px;;
+        }
+
+    .txt{
+      width: 301px;
+      height: 65px;  
+    }
+     
+       .ip_yzm{
+        width: 157px;
+        float:left;
+    vertical-align: middle;
+    border: 1px solid #c8c8c8;
+    height: 40px;
+    line-height: 25px;
+    padding-left: 6px;
+font-size: 12px;;
+       } 
+       .p_yzm{
+    margin-left: 11px;
+    color: #444444;
+    font-size: 18px;
+    text-align: center;
+    display: inline-block;
+    background-color: #f6f6f6;
+    border: 1px solid #c8c8c8;
+    width: 117px;
+    height: 38px;
+    line-height: 38px;
+       }
+    .button{
+     .zc{
+    display: block;
+    width: 310px;
+    height: 40px;
+    color: #fff;
+    line-height: 40px;
+    background-color: #94193f;
+    text-align: center;
+    font-size: 14px;
+     } 
+     .r_sm{
+        padding-top: 5px;
+        font-size:12px;
+        a{
+            color:red;
+        }
+        .xy{
+        display:none;
+        width: 310px;
+        height: 30px;
+        color:red;
+        font-size:14px;
+        line-height:30px;
+        }
+     }  
+    }
+    }
+    }
+    }
+    }
+}
+// 尾部分
+ .footer_bottom{
+  width: 100%;
+  height: 183px;
+  background:#f3f3f3;
+  margin-top: 100px;
+  .f_p1{
+  margin: 0 auto;
+   width: 830px;
+   height: 64px;
+   font-size:12px;
+   color:#666;
+   padding-left: 100px;
+   padding-right: 70px;
+   line-height:30px;
+   a{
+    color:#666;
+   }
+   .f_a1{
+    color:#666;
+    margin-left: 50px;
+   }
+  }
+  .f_p2{
+ width: 800px;
+ height: 113px;
+ padding-left: 400px;
+ margin-top: 20px;
+ a{
+    display:inline-block;
+    img{
+    width: 350px;
+    height: 43px;  
+    }
+ }
+  }
+ }

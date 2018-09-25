@@ -1,0 +1,173 @@
+.flash_sale{
+   height: 400px;
+   background:#fff;
+   margin-top: 20px; 
+}
+   .flash{
+     height: 400px;
+ }
+    .flash_top{
+    height: 47px;
+    border-bottom:1px solid #c4193f;
+}
+    .flash_top p{
+     width: 112px;
+     height: 46px;
+    border: none;
+    font-size: 28px;
+    padding-bottom: 4px;
+    color: #333333;
+    float:left; 
+    }
+    .tttt{
+    float:right;
+    width: 252px;
+    height: 37px;
+    line-height: 37px;
+    margin-top: 9px;
+}
+    .tttt li{
+    float:left;
+    width: 79px;
+    text-align:center;
+    
+    }
+    .flash_c{
+    width: 1030px;
+    height: 381px;
+    position:relative;
+    overflow: hidden;
+   }
+    .op{ 
+        position:absolute;
+        left:0px;
+        top:120px;
+        display:none;
+         z-index:40;
+    } 
+     .prev{
+        left: 0;
+        display:block;
+        background:#575757;
+        width: 30px;
+        height: 80px;
+        text-align:center;
+        padding-top:2px;
+
+        }
+
+     .opd{
+        position:absolute;
+        right:10px;
+        top:120px;
+        display:none;
+        z-index:40;
+    }
+      .next{ 
+        right: 0;
+        display:block;
+        background:#575757;
+        width: 30px;
+        height: 80px;
+        text-align:center;
+        padding-top:2px;
+  }
+    .f_co{
+    position:absolute;
+    left:0;
+    top:0;
+    width: 1030px;
+    height: 381px;
+    overflow: hidden;
+    display:none;
+}
+
+   .f_coul{
+    position:absolute;
+    left:0px;
+    top:0;
+   width: 2200px;
+   height: 381px;
+   overflow: hidden;
+}
+.f_coul li{
+    width: 200px;
+    height: 331px; 
+    float:left;
+    margin-left: 5px;
+    /*background:yellow;*/
+}
+    .f_coul li .tp{
+    display:block;
+    width: 192px;
+    height: 192px;
+}
+ .f_coul li .tp img{
+    width: 100%;
+    height: 100%;
+        }
+
+     .wt{
+        font-size:12px;
+        height: 17px;
+        line-height:17px;
+        color:#787878;
+        margin-bottom: 10px;
+     }
+     .describe{
+    font-size:12px;
+    height: 70px; 
+    line-height:20px;
+    }
+    .describe a{
+    color:#000;
+        }
+    .sjk{
+        width: 192px;
+        height: 17px;
+        background:#fef6eb;
+        color:red;
+        font-size:14px;
+        padding-top:10px;
+        margin-bottom: 10px;
+    }
+    .i_xsqg_timer{
+    display: inline-block;
+    vertical-align: middle;
+    width: 13px;
+    height: 17px;
+    background:url("../img/icon_list.png") no-repeat scroll -167px -271px ;
+    margin-right: 5px;
+    }
+
+
+     .f_coul li .now_price{
+    width: 192px;
+    color: #969696;
+    height: 35px;
+    line-height: 30px;
+    border:2px solid #c4193f;
+}
+    .price1{
+        color:#c4193f;
+
+     }
+     .price2{
+        color:#969696;
+     }
+     .now_price a{
+    display:inline-block;
+     width: 60px;
+     height: 35px;
+     color:#fff;
+     background:#c4193f;
+     font-size:14px;
+     float:right;
+     line-height:35px;
+     text-align: center;
+     }
+   .ac{
+    border:1px solid #c4193f;
+    border-bottom:1px solid #fff;
+   }
+

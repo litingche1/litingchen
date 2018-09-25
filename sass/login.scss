@@ -1,0 +1,216 @@
+@chartset "utf-8";
+// 头部
+.header{
+    width: 100%;
+    height: 88px;
+    background:#fff;
+
+    .h_top{
+     height: 68px;
+    margin-top: 18px;
+     .h_top_l{
+        float:left;
+        a{
+        display:block;
+         width: 74px;
+        height: 68px;
+        }
+        img{
+         width: 74px;
+        height: 68px;   
+        }
+     }
+     .h_top_r{
+        margin-top: 19px;
+        float:right;
+        width: 472px;
+        height: 29px;
+        img{
+        width: 472px;
+        height: 29px;   
+        }
+     }
+    }
+}
+//登陆
+.reg{
+    width: 980px;
+    height: 600px;
+    margin: 40px auto;
+    position:relative;
+    .register{
+    width: 980px;
+    height: 600px;
+    .r_img{
+        float:left;
+        width: 600px;
+        height: 410px;
+        
+    }
+    .r_c{
+    width: 367px;
+    height: 600px;
+    float:right;
+    border-right:1px solid #f2f2f2;
+    border-left:1px solid #f2f2f2;
+       .r_ul{
+    padding:0 33px;
+    
+    .r_ul_top{ 
+   padding-top: 23px;
+    padding-bottom: 26px;
+    h2{
+    color: #c41f3a;
+    font-size: 22px;
+    height: 38px;
+    line-height: 38px;
+    font-weight: bold;
+    float:left;
+    }
+    .log{
+    float:right;
+    height: 38px;
+    line-height: 38px;
+    font-size:12px;
+    color:#a88c8c;
+    a{
+    color: #c41f3a;
+    }
+        
+    }
+    }
+        .form{
+        width: 301px;
+        height: 435px;
+        .err_box{
+          width: 301px;
+          height: 23px;
+          font-size:12px;
+          margin-bottom: 3px;
+          display:none;
+          .wzms{
+           width: 301px;
+          height: 23px;
+          font-size:12px; 
+         color: red;
+          }  
+        }
+    .tt{
+    vertical-align: middle;
+    border: 1px solid #c8c8c8;
+    height: 40px;
+    line-height: 25px;
+    padding-left: 6px;
+    width: 293px;
+    font-size: 12px;;
+        }
+
+    .txt{
+      width: 301px;
+      height: 65px;  
+    }
+     
+       .ip_yzm{
+        width: 157px;
+        float:left;
+    vertical-align: middle;
+    border: 1px solid #c8c8c8;
+    height: 40px;
+    line-height: 25px;
+    padding-left: 6px;
+font-size: 12px;;
+       } 
+       .p_yzm{
+    margin-left: 11px;
+    color: #444444;
+    font-size: 18px;
+    text-align: center;
+    display: inline-block;
+    background-color: #f6f6f6;
+    border: 1px solid #c8c8c8;
+    width: 117px;
+    height: 38px;
+    line-height: 38px;
+       }
+    .button{
+     .dla{
+    display: block;
+    width: 310px;
+    height: 40px;
+    color: #fff;
+    line-height: 40px;
+    background-color: #94193f;
+    text-align: center;
+    font-size: 14px;
+     } 
+     .r_sm{
+        padding-top: 5px;
+        font-size:12px;
+       margin-bottom: 10px;
+        a{
+            color:red;
+        }
+        .c_box{
+        height: 30px;
+        font-size:14px;
+        line-height:30px;
+        background:red;
+        }
+        .t{
+        display:block;
+        height: 30px;
+        color:#595959;
+        font-size:14px;
+        line-height:30px;
+        float:right;
+        
+        }
+     }  
+    }
+    }
+    .dl{
+     width: 317px;
+     height: 100px;
+     margin-top: 40px; 
+     font-size:12px;
+     ul{
+    width: 317px;
+    height: 50px;
+    margin-top: 10px;
+    li{
+        width: 50px;
+        height: 50px;
+        float:left;
+        margin-right: 10px;
+        a{
+    text-indent: -999em;
+    display: block;
+    width: 50px;
+    height: 50px;
+    background: url(../img/login_icon_list.png) 0 0;   
+        }
+        .qq{
+      background-position: 0 -32px;
+        }
+        .wb{
+       background-position: -74px -32px;
+        }
+        .zfb{
+     background-position: -143px -32px;
+        }
+     }  
+    }
+    }
+ //r_ul   
+}
+    }
+    }
+    }
+    //右边图片
+    .tp{
+    width: 31px;
+    height: 181px;
+    position:absolute;
+    right:140px;
+    top:200px;
+    }
