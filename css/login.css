@@ -1,0 +1,171 @@
+@chartset "utf-8";
+.header {
+  width: 100%;
+  height: 88px;
+  background: #fff; }
+  .header .h_top {
+    height: 68px;
+    margin-top: 18px; }
+    .header .h_top .h_top_l {
+      float: left; }
+      .header .h_top .h_top_l a {
+        display: block;
+        width: 74px;
+        height: 68px; }
+      .header .h_top .h_top_l img {
+        width: 74px;
+        height: 68px; }
+    .header .h_top .h_top_r {
+      margin-top: 19px;
+      float: right;
+      width: 472px;
+      height: 29px; }
+      .header .h_top .h_top_r img {
+        width: 472px;
+        height: 29px; }
+
+.reg {
+  width: 980px;
+  height: 600px;
+  margin: 40px auto;
+  position: relative; }
+  .reg .register {
+    width: 980px;
+    height: 600px; }
+    .reg .register .r_img {
+      float: left;
+      width: 600px;
+      height: 410px; }
+    .reg .register .r_c {
+      width: 367px;
+      height: 600px;
+      float: right;
+      border-right: 1px solid #f2f2f2;
+      border-left: 1px solid #f2f2f2; }
+      .reg .register .r_c .r_ul {
+        padding: 0 33px; }
+        .reg .register .r_c .r_ul .r_ul_top {
+          padding-top: 23px;
+          padding-bottom: 26px; }
+          .reg .register .r_c .r_ul .r_ul_top h2 {
+            color: #c41f3a;
+            font-size: 22px;
+            height: 38px;
+            line-height: 38px;
+            font-weight: bold;
+            float: left; }
+          .reg .register .r_c .r_ul .r_ul_top .log {
+            float: right;
+            height: 38px;
+            line-height: 38px;
+            font-size: 12px;
+            color: #a88c8c; }
+            .reg .register .r_c .r_ul .r_ul_top .log a {
+              color: #c41f3a; }
+        .reg .register .r_c .r_ul .form {
+          width: 301px;
+          height: 435px; }
+          .reg .register .r_c .r_ul .form .err_box {
+            width: 301px;
+            height: 23px;
+            font-size: 12px;
+            margin-bottom: 3px;
+            display: none; }
+            .reg .register .r_c .r_ul .form .err_box .wzms {
+              width: 301px;
+              height: 23px;
+              font-size: 12px;
+              color: red; }
+          .reg .register .r_c .r_ul .form .tt {
+            vertical-align: middle;
+            border: 1px solid #c8c8c8;
+            height: 40px;
+            line-height: 25px;
+            padding-left: 6px;
+            width: 293px;
+            font-size: 12px; }
+          .reg .register .r_c .r_ul .form .txt {
+            width: 301px;
+            height: 65px; }
+          .reg .register .r_c .r_ul .form .ip_yzm {
+            width: 157px;
+            float: left;
+            vertical-align: middle;
+            border: 1px solid #c8c8c8;
+            height: 40px;
+            line-height: 25px;
+            padding-left: 6px;
+            font-size: 12px; }
+          .reg .register .r_c .r_ul .form .p_yzm {
+            margin-left: 11px;
+            color: #444444;
+            font-size: 18px;
+            text-align: center;
+            display: inline-block;
+            background-color: #f6f6f6;
+            border: 1px solid #c8c8c8;
+            width: 117px;
+            height: 38px;
+            line-height: 38px; }
+          .reg .register .r_c .r_ul .form .button .dla {
+            display: block;
+            width: 310px;
+            height: 40px;
+            color: #fff;
+            line-height: 40px;
+            background-color: #94193f;
+            text-align: center;
+            font-size: 14px; }
+          .reg .register .r_c .r_ul .form .button .r_sm {
+            padding-top: 5px;
+            font-size: 12px;
+            margin-bottom: 10px; }
+            .reg .register .r_c .r_ul .form .button .r_sm a {
+              color: red; }
+            .reg .register .r_c .r_ul .form .button .r_sm .c_box {
+              height: 30px;
+              font-size: 14px;
+              line-height: 30px;
+              background: red; }
+            .reg .register .r_c .r_ul .form .button .r_sm .t {
+              display: block;
+              height: 30px;
+              color: #595959;
+              font-size: 14px;
+              line-height: 30px;
+              float: right; }
+        .reg .register .r_c .r_ul .dl {
+          width: 317px;
+          height: 100px;
+          margin-top: 40px;
+          font-size: 12px; }
+          .reg .register .r_c .r_ul .dl ul {
+            width: 317px;
+            height: 50px;
+            margin-top: 10px; }
+            .reg .register .r_c .r_ul .dl ul li {
+              width: 50px;
+              height: 50px;
+              float: left;
+              margin-right: 10px; }
+              .reg .register .r_c .r_ul .dl ul li a {
+                text-indent: -999em;
+                display: block;
+                width: 50px;
+                height: 50px;
+                background: url(../img/login_icon_list.png) 0 0; }
+              .reg .register .r_c .r_ul .dl ul li .qq {
+                background-position: 0 -32px; }
+              .reg .register .r_c .r_ul .dl ul li .wb {
+                background-position: -74px -32px; }
+              .reg .register .r_c .r_ul .dl ul li .zfb {
+                background-position: -143px -32px; }
+
+.tp {
+  width: 31px;
+  height: 181px;
+  position: absolute;
+  right: 140px;
+  top: 200px; }
+
+/*# sourceMappingURL=login.css.map */

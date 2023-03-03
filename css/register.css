@@ -1,0 +1,164 @@
+@chartset "utf-8";
+.header {
+  width: 100%;
+  height: 88px;
+  background: #fff; }
+  .header .h_top {
+    height: 68px;
+    margin-top: 18px; }
+    .header .h_top .h_top_l {
+      float: left; }
+      .header .h_top .h_top_l a {
+        display: block;
+        width: 74px;
+        height: 68px; }
+      .header .h_top .h_top_l img {
+        width: 74px;
+        height: 68px; }
+    .header .h_top .h_top_r {
+      margin-top: 19px;
+      float: right;
+      width: 472px;
+      height: 29px; }
+      .header .h_top .h_top_r img {
+        width: 472px;
+        height: 29px; }
+
+.reg {
+  width: 980px;
+  height: 600px;
+  margin: 40px auto; }
+  .reg .register {
+    width: 980px;
+    height: 600px; }
+    .reg .register .r_img {
+      float: left;
+      width: 600px;
+      height: 410px; }
+      .reg .register .r_img img {
+        width: 560px;
+        height: 360px; }
+    .reg .register .r_c {
+      width: 367px;
+      height: 600px;
+      float: right;
+      border-right: 1px solid #f2f2f2;
+      border-left: 1px solid #f2f2f2; }
+      .reg .register .r_c .r_ul {
+        padding: 0 33px; }
+        .reg .register .r_c .r_ul .r_ul_top {
+          padding-top: 23px;
+          padding-bottom: 26px; }
+          .reg .register .r_c .r_ul .r_ul_top h2 {
+            color: #c41f3a;
+            font-size: 22px;
+            height: 38px;
+            line-height: 38px;
+            font-weight: bold;
+            float: left; }
+          .reg .register .r_c .r_ul .r_ul_top .log {
+            float: right;
+            height: 38px;
+            line-height: 38px;
+            font-size: 12px;
+            color: #a88c8c; }
+            .reg .register .r_c .r_ul .r_ul_top .log a {
+              color: #c41f3a; }
+        .reg .register .r_c .r_ul .r_ul_f {
+          width: 301px;
+          height: 435px; }
+          .reg .register .r_c .r_ul .r_ul_f .err_box {
+            width: 301px;
+            height: 23px;
+            font-size: 12px;
+            margin-bottom: 3px;
+            display: none; }
+            .reg .register .r_c .r_ul .r_ul_f .err_box .wzms {
+              width: 301px;
+              height: 23px;
+              font-size: 12px;
+              color: red; }
+          .reg .register .r_c .r_ul .r_ul_f .tt {
+            vertical-align: middle;
+            border: 1px solid #c8c8c8;
+            height: 40px;
+            line-height: 25px;
+            padding-left: 6px;
+            width: 293px;
+            font-size: 12px; }
+          .reg .register .r_c .r_ul .r_ul_f .txt {
+            width: 301px;
+            height: 65px; }
+          .reg .register .r_c .r_ul .r_ul_f .ip_yzm {
+            width: 157px;
+            float: left;
+            vertical-align: middle;
+            border: 1px solid #c8c8c8;
+            height: 40px;
+            line-height: 25px;
+            padding-left: 6px;
+            font-size: 12px; }
+          .reg .register .r_c .r_ul .r_ul_f .p_yzm {
+            margin-left: 11px;
+            color: #444444;
+            font-size: 18px;
+            text-align: center;
+            display: inline-block;
+            background-color: #f6f6f6;
+            border: 1px solid #c8c8c8;
+            width: 117px;
+            height: 38px;
+            line-height: 38px; }
+          .reg .register .r_c .r_ul .r_ul_f .button .zc {
+            display: block;
+            width: 310px;
+            height: 40px;
+            color: #fff;
+            line-height: 40px;
+            background-color: #94193f;
+            text-align: center;
+            font-size: 14px; }
+          .reg .register .r_c .r_ul .r_ul_f .button .r_sm {
+            padding-top: 5px;
+            font-size: 12px; }
+            .reg .register .r_c .r_ul .r_ul_f .button .r_sm a {
+              color: red; }
+            .reg .register .r_c .r_ul .r_ul_f .button .r_sm .xy {
+              display: none;
+              width: 310px;
+              height: 30px;
+              color: red;
+              font-size: 14px;
+              line-height: 30px; }
+
+.footer_bottom {
+  width: 100%;
+  height: 183px;
+  background: #f3f3f3;
+  margin-top: 100px; }
+  .footer_bottom .f_p1 {
+    margin: 0 auto;
+    width: 830px;
+    height: 64px;
+    font-size: 12px;
+    color: #666;
+    padding-left: 100px;
+    padding-right: 70px;
+    line-height: 30px; }
+    .footer_bottom .f_p1 a {
+      color: #666; }
+    .footer_bottom .f_p1 .f_a1 {
+      color: #666;
+      margin-left: 50px; }
+  .footer_bottom .f_p2 {
+    width: 800px;
+    height: 113px;
+    padding-left: 400px;
+    margin-top: 20px; }
+    .footer_bottom .f_p2 a {
+      display: inline-block; }
+      .footer_bottom .f_p2 a img {
+        width: 350px;
+        height: 43px; }
+
+/*# sourceMappingURL=register.css.map */
